@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5568b446-d7aa-41b6-babf-c6a26145cbce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JetPlaneShooter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highscore.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Ani1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Ani2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/EnemyScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Music.wav.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Player_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Squares.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/en1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/en2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/start.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JJpshJXomhS7hhXc5x4BhuCfcb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5568b446-d7aa-41b6-babf-c6a26145cbce" name="Changes" comment="" />
+      <created>1671806253987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671806253987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
